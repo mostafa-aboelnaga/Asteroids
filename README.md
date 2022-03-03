@@ -1,5 +1,5 @@
 # **Asteroids**
- A simple 2D game, writteng in Python and OpenGL
+ A simple 2D game, written in Python and OpenGL.
 
 Here's a trailer I made for the game, just to hype things up 😤🔥
 
